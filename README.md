@@ -31,8 +31,8 @@
 
 ### Third-Party Assets
 
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
+This project is built on the Jekyll ecosystem, and is developed using VS Code as well as tools provided by JetBrains under a non-commercial open-source software license.
 
 ## License
 
-This project is published under [MIT License][license].
+This project is published under MIT License.
